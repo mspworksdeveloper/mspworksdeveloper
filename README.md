@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🚀 API MSP TALKS
 
-<!--
-**mspworksdeveloper/mspworksdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Documentação Oficial
 
-Here are some ideas to get you started:
+Acesse a documentação completa da API no link abaixo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 https://developer-wrbj.readme.io/
+
+---
+
+## 📖 Sobre a API
+
+API utilizada para integração com a plataforma Helena, permitindo:
+
+- Criação de chamados
+- Consulta de dados
+- Integrações com sistemas externos
+
+---
+
+## 🔐 Autenticação
+
+Utiliza autenticação via Bearer Token.
+
+---
+
+## 📬 Contato
+
+Em caso de dúvidas, entre em contato com o suporte.
